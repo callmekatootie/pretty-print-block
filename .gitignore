@@ -5,3 +5,12 @@ dist-ssr
 .yalc.lock
 .yalc
 dist
+
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+codealike.json
