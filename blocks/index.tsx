@@ -53,7 +53,7 @@ const availableStylesheets = [
   "zTouch",
 ].sort((a, b) => a.localeCompare(b));
 
-export default function ExampleFileBlock(props: FileBlockProps) {
+export default function SyntaxHighlighterBlock(props: FileBlockProps) {
   const oneDarkIndex = availableStylesheets.findIndex((a) => a === "prism");
   const [selectedIndex, setSelectedIndex] = useState(oneDarkIndex);
   const [currentStyle, setCurrentStyle] = useState(
