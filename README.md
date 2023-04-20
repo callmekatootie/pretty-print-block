@@ -9,7 +9,7 @@ A [Github Block](https://blocks.githubnext.com/) that provides syntax highlighti
 
 ## Demo
 
-![](assets/syntax-highlighter-block-demo.mp4)
+https://user-images.githubusercontent.com/2317133/233296195-f8db1904-9b54-494d-9c38-7bb6b22d1844.mp4
 
 ## License
 
