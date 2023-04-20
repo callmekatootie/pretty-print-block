@@ -1,6 +1,6 @@
 {
-  "name": "custom-block-template",
-  "version": "0.0.0",
+  "name": "pretty-print-block",
+  "version": "0.0.1",
   "license": "MIT",
   "scripts": {
     "start": "blocks start",
@@ -10,6 +10,11 @@
   "dependencies": {
     "@githubnext/blocks": "^2.3.5",
     "react": "^18.1.0",
-    "react-dom": "^18.1.0"
+    "react-dom": "^18.1.0",
+    "react-syntax-highlighter": "^15.5.0"
+  },
+  "devDependencies": {
+    "@types/prettier": "^2.7.2",
+    "@types/react-syntax-highlighter": "^15.5.6"
   }
 }
